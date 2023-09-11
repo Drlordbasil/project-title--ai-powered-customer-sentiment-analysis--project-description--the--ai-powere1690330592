@@ -1,1 +1,1 @@
-Apologies for the confusion. Please provide the Python script for me to analyze and optimize.
+Certainly! Please provide the code for me to analyze and optimize.
